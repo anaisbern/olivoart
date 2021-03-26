@@ -81,12 +81,15 @@ i:hover {
 
 .btn-discover{
 	background-color: #DCA15C;
+	color:white;
 	text-align: center;
-    display: block;
-    margin: 50px auto;
-    border-radius: 7px;
-    width: 15%;
-    padding: 8px 14px;
+    	display: block;
+    	margin: 50px auto;
+   	border-radius: 7px;
+    	width: 15%;
+    	padding: 8px 14px;
+   
+
 }
 
 .btn-discover:hover{
